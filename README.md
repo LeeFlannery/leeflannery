@@ -1,13 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=FF1493&center=true&vCenter=true&repeat=false&width=600&lines=Lee+Flannery;Solutions+Engineer;Developer+Relations" alt="Typing SVG" />
+<img src="https://leeflannery.com/favicon.png" alt="Lee Flannery" width="120" />
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF1493?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FullStackDrip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D9EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leeflannery/)
-[![TikTok](https://img.shields.io/badge/TikTok-FF1493?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fullstackdrip)
-[![Portfolio](https://img.shields.io/badge/leeflannery.com-0D9EFF?style=for-the-badge&logo=safari&logoColor=white)](https://leeflannery.com)
-[![Email](https://img.shields.io/badge/lee@fullstackdrip.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lee@fullstackdrip.com)
+# Lee Flannery
 
-![Profile Views](https://komarev.com/ghpvc/?username=leeflannery&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS)
+<p>Creator, <a href="https://www.youtube.com/@FullStackDrip" style="color: #ec4899;">Full Stack Drip</a></p>
+
+## Developer Relations & Solutions Engineer for modern development and AI teams.
+
+<p style="color: #6b7280;">I build platforms, teach developers, and turn complex systems into demos, docs, and stories.</p>
+
+### Connect
+
+[YouTube](https://www.youtube.com/@FullStackDrip) · 
+[LinkedIn](https://www.linkedin.com/in/leeflannery/) · 
+[Instagram](https://instagram.com/fullstackdrip) · 
+[Bluesky](https://bsky.app/profile/fullstackdrip.com) · 
+[Threads](https://threads.net/@fullstackdrip) · 
+[TikTok](https://tiktok.com/@fullstackdrip) · 
+[GitHub](https://github.com/leeflannery)
+
+### Sites
+
+[Full Stack Drip](https://fullstackdrip.com) · 
+[leeflannery.com](https://leeflannery.com) · 
+[Schedule a Call](https://cal.com/releasemode-lee/officehours)
 
 </div>
