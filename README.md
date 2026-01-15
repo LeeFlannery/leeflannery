@@ -1,22 +1,15 @@
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://leeflannery.com/favicon.png" alt="Lee" width="80" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://leeflannery.com/favicon.png" alt="Lee" width="80" />
+</p>
 
 # Lee Flannery
 
 Creator, [**Full Stack Drip**](https://www.youtube.com/@FullStackDrip)
 
-## Developer Relations & Solutions Engineer for modern development and AI teams.
+[Full Stack Drip](https://fullstackdrip.com) <br/>
+[LeeFlannery.com](https://leeflannery.com) <br/>
 
-I build platforms, teach developers, and turn complex systems into demos, docs, and stories.
-
-[Schedule a Call](https://cal.com/releasemode-lee/officehours)
-
-### Socials
+## Developer Relations & Solutions Engineer
 
 [YouTube](https://www.youtube.com/@FullStackDrip) <br/>
 [LinkedIn](https://www.linkedin.com/in/leeflannery/) <br/>
@@ -26,7 +19,5 @@ I build platforms, teach developers, and turn complex systems into demos, docs, 
 [TikTok](https://tiktok.com/@fullstackdrip) <br/>
 [GitHub](https://github.com/leeflannery)
 
-### Sites
 
-[Full Stack Drip](https://fullstackdrip.com) <br/>
-[Release Mode](https://releasemode.com) <br/>
+
