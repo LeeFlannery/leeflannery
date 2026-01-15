@@ -1,29 +1,32 @@
-<div align="center">
-
-<img src="https://leeflannery.com/favicon.png" alt="Lee Flannery" width="120" />
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://leeflannery.com/favicon.png" alt="Lee" width="80" />
+    </td>
+  </tr>
+</table>
 
 # Lee Flannery
 
-<p>Creator, <a href="https://www.youtube.com/@FullStackDrip" style="color: #ec4899;">Full Stack Drip</a></p>
+Creator, [**Full Stack Drip**](https://www.youtube.com/@FullStackDrip)
 
 ## Developer Relations & Solutions Engineer for modern development and AI teams.
 
-<p style="color: #6b7280;">I build platforms, teach developers, and turn complex systems into demos, docs, and stories.</p>
+I build platforms, teach developers, and turn complex systems into demos, docs, and stories.
 
-### Connect
+[Schedule a Call](https://cal.com/releasemode-lee/officehours)
 
-[YouTube](https://www.youtube.com/@FullStackDrip) · 
-[LinkedIn](https://www.linkedin.com/in/leeflannery/) · 
-[Instagram](https://instagram.com/fullstackdrip) · 
-[Bluesky](https://bsky.app/profile/fullstackdrip.com) · 
-[Threads](https://threads.net/@fullstackdrip) · 
-[TikTok](https://tiktok.com/@fullstackdrip) · 
+### Socials
+
+[YouTube](https://www.youtube.com/@FullStackDrip) <br/>
+[LinkedIn](https://www.linkedin.com/in/leeflannery/) <br/>
+[Instagram](https://instagram.com/fullstackdrip) <br/>
+[Bluesky](https://bsky.app/profile/fullstackdrip.com) <br/>
+[Threads](https://threads.net/@fullstackdrip) <br/>
+[TikTok](https://tiktok.com/@fullstackdrip) <br/>
 [GitHub](https://github.com/leeflannery)
 
 ### Sites
 
-[Full Stack Drip](https://fullstackdrip.com) · 
-[leeflannery.com](https://leeflannery.com) · 
-[Schedule a Call](https://cal.com/releasemode-lee/officehours)
-
-</div>
+[Full Stack Drip](https://fullstackdrip.com) <br/>
+[Release Mode](https://releasemode.com) <br/>
