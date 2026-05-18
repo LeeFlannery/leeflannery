@@ -3,11 +3,13 @@
 </p>
 
 # Lee Flannery
+I make developers ship *faster.*
+I write code implementations, create video, and build documentation & education platforms. I build metrics driven strategies to reduce developer friction and increase speed to adoption.
 
-Creator, [**Full Stack Drip**](https://www.youtube.com/@FullStackDrip)
+Creator of [**Full Stack Drip**](https://www.youtube.com/@FullStackDrip) <br/>
 
-[Full Stack Drip](https://fullstackdrip.com) <br/>
-[LeeFlannery.com](https://leeflannery.com) <br/>
+[Full Stack Drip articles](https://fullstackdrip.com) <br/>
+[Portfolio, LeeFlannery.com](https://leeflannery.com) <br/>
 
 ## Developer Relations & Solutions Engineer
 
