@@ -12,9 +12,6 @@ I build with the product, find where developers get stuck, and ship the path for
 
 **[Portfolio](https://leeflannery.com)** · **[Release Mode](https://releasemode.com)** · **[Full Stack Drip articles](https://fullstackdrip.com)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeeFlannery&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=808080" alt="Lee's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFlannery&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=808080" alt="Most used languages" height="165" />
-
 ### Elsewhere
 
 [YouTube](https://www.youtube.com/@FullStackDrip) ·
